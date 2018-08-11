@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/dromologue
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dromologue.com
+  * I am dromologue (https://keybase.io/dromologue) on keybase.
+  * I have a public key with fingerprint 4143 8112 8A10 D881 7081  7261 CEF2 9854 CBD8 E29A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017bb654c52a4f22537d3032b57f4c2d24d14167c734f43f3c45582150fea4f33b0a",
+            "fingerprint": "414381128a10d88170817261cef29854cbd8e29a",
+            "host": "keybase.io",
+            "key_id": "cef29854cbd8e29a",
+            "kid": "01017bb654c52a4f22537d3032b57f4c2d24d14167c734f43f3c45582150fea4f33b0a",
+            "uid": "5bde6737633a7afe914e189bd3a75919",
+            "username": "dromologue"
+        },
+        "revoke": {
+            "sig_ids": [
+                "af54625602c20df29037eca4bc5fa9f2dcab9605e73676cbfb25eac6ee05836d0f"
+            ]
+        },
+        "service": {
+            "hostname": "dromologue.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1474640065,
+    "expire_in": 157680000,
+    "prev": "4c7c624d488fd3fa25c79070160623af29f415c14002b828db800d32dfac3c8d",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMOBAnicrVJ/TFVVHH+ENB8EChhlDKIriXPI7u973yPExS+ljYBej14Eb/eee+7j
+Crz7eL8QiUpBUydmKgUJlssWsmRsSElOkB+SQpPMJYQ2hAZUGiqtIUm+zmX1V/3Z
+2c7Ozjmfz+f7+X7O6Q/21wX6XZ6rNw2NTn7gN9Qz79HlTfE9lZioShWYsRIrhksL
+LJGgy20tViTMiOEETnCiyDI0YEiBlkmSoTiJwilSZDiZBqRE0hJBEywHOIqWaUqm
+AM0wPEkwuAwRgaJEXMDiMVmx26DT4VTsbiRLEzTFEwTJCwQu8TzB4WiSLAGgTBp4
+VEyUeEgaNGKR6tIYyJwouGCCoqIztLEu2fsP/P/s27Mkx4gSZDmKYylK4AQZGgga
+ErxBlNCWMRAGDeiCTrtQChFacqqlaolq80CsKh5zQq9aDLVkXYoN2XZhxnxMkBma
+JRkWJwGJS6gJnOIgEGgRMLJgkEkJCKKBxRnIUSzHAlEWSQYKgIUQZ3iKlXAZK0Da
+qKZXAUviWk7/qp8A1FLkzeFU3SpQS9BdkdvtMGq23BUODVsORevfKlZRsUvomRDB
+C50uRbVjRgIhgVvRZAmao1kax1kmHoPbHIoTWhUNwXAsj6OhlYFe7XEBB1gUL83z
+skTJAskAzoBzOMHiLEkJqFmZJhhAIC1S5EleEhFfokhJFgAFeAnT+iqzq5iRRKJu
+wYY0UXR2we1xokR7e15bpvML1D0a8Ij2f3WB+pX//OrCwRW+ql2W2DvuA++vzgno
+27V99PWPTJvO8YPhd6NmvXsnM1L7LYeKPj3UdfVhS3Dqx0/ef6qjLmTzwJXy/I7E
+2yen/1jwmhZ9o9t62m6lna6PniwwR4sNNctvXvTcuWQMSQpoODYcFuN5o0ONPXbT
+HfdW9I5P9GZmz8qJiRdbPgSHd0y0E123nq1lFoOvdi4cbNt3fE1rdcHxiYAXLthC
+gS0CjNQmXfK2RcXcKD+vz7fidWf7Impnkiyx44uj5qHwi41NfEf6SP9PA1uns583
+z31WbrFt6HszHjxT1n27zPRL9vVfk/t8KSVjWSm4efnGhFeLUraQWdaMXswSM1dt
+AOdMZyem762KnK9Zr88K2rn1xJUb61o8j4/pKnKDc6Etp6pC2UvHpPmei8ni9JFh
+PTOdI0py0qw7LOOdmcLdR1lb/5HrD+u3nGjL/HLZE6b9NXGjUb8ftF/L9A8aEOoG
+h091Pj1W9FXagUT/7lWb1NYm18uir/SeZTbZC/vSC2YK9q89+cXw+vnUxh8Kv46b
+/7b4dOiDJmmSuR+1MzH0zLtic4irYji72r85JY3d0FnbnqzvDYowWqffHm/OK1m3
+O31Fq2e6u9x/anXjmlfM8yl7zkcsNGB3w9u/z93+0qmpsWuTObGZaz8nNv58pqrV
+cTlh/EHej0d0m2fIysO/XYg/2vWN709HUlTke4999xeEbt+Y
+=B0Hh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dromologue
+
+==================================================================

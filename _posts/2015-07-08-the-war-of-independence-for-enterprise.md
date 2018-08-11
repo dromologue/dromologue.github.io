@@ -1,0 +1,105 @@
+---
+layout: post
+title: The War of Independence for Enterprise Architecture
+date: '2015-07-08T20:16:04+01:00'
+image:
+  feature: flora.jpg
+  credit: Paul Klee
+tags:
+- Essay
+---
+
+## What is Enterprise Architecture in a high velocity software business?
+
+If Mark Andreessen is right, and I think that he is, that “Software is eating the world” then it is worth remembering that every business is a software business.
+
+John Deere tractors are now mobile soil analysis labs, Volvo cars implement the equivalent of an ESB for all their internal electronics, and airlines compete based on the speed and efficiency of the airport gate scheduling systems. To quote another visionary, “The times, they are a-changing.”
+
+Give some thought to how your business is being transformed by how it, or its competitors, use technology to compete.
+
+Let’s restate our opening question to be,
+
+“Where does the Enterprise Architecture profession need to go to add value to businesses whose very technology operating model is changing?”
+
+If I recall those enterprise architects whom I know, few have fundamentally changed their operating model. Online, I still see recruiters advertising for Zachman and TOGAF experience, endure long discussions at conferences of mapping business strategy to IT components or initiatives and console friends in engineering bemoaning thick turgid documents describing roadmaps and standards.
+
+## How did we get here and was it ever a good idea?
+
+In the days of yore, change was slow. Infrastructure was expensive and you didn’t control your destiny. Purchasing decisions could and did take a long time, as did the delivery of the hardware. Software features from packaged applications were in thrall to customer councils in companies that were similarly slow to move and ship new features.
+
+If today is an age of continuous delivery, back then it was fractal planning…everyone having to rely on another’s roadmap that was only partly shared and understood. Custom software development in-house was infected by / shaped by these expectations.
+
+If we could expect our vendors to provide us with long term costs and delivery dates why shouldn’t we expect the same from our own developers? To be fair, this worked for a while. Who did banks compete with? Other banks. There was no comparison of feature delivery and agility between a bank and PopCap games. We didn’t grow up expecting new features every week. An unconscious but arresting ‘colusion of the similarly-paced’ reigned in our expectations.
+
+So, Planning change - it’s direction and speed - was critical. While everybody was focused on their own application or system someone had to focus on what the whole corporate technology leviathan was lumbering towards. This is where the Enterprise Architects came in.
+
+They made roadmaps showing how often we needed to renew software; how long it might take to replace a technology that was beginning to lag on skills support in the market; and how to effectively evaluate its replacement in core systems. All good and necessary things.
+
+Of course, this set them apart from their colleagues who actually ran those systems, or used those languages etc. So began the great war of independence between architects and engineers. Any of us who have worked in large enterprises over the last 20 years have been involved in a few skirmishes between people classed as ‘doers’ and those classed as ‘thinkers’ (meaning - NOT doers.)
+
+Conway’s Law is, for me, the most important idea ever to come out of architecture. It states that organisations will tend to produce systems that mirror their communication structures. So the irony of the separation between the architects and the engineers should not be lost on us.
+
+I am not attributing it as a single cause, but clearly this separation has contributed to a corporate perception of architecture as conceptual and contingent and engineering as practical and procedural. In an important way, we have constrained our architects ability to become equal participants in engineering projects, and our engineers from having meaningful input to technology strategy, because of this most pernicious idea.
+
+Therefore, I infer a corollary to Conway’s Law: 
+> “The greater the functional segregation of an organisation, the greater the lag in effecting technology change.“
+
+Definitions of DevOps abound. It is clear though that what most of us mean when we talk about operating in ‘this’ way has something to do with;
+* releasing software in small batches, fast.
+* working in teams structured around required expertise and mutual respect and not organisational silos or complicated blame inducing SLA’s. 
+* getting everything out of the way that obstructs the delivery of customer value.
+* Automating the hell out of tasks that can be automated so that we can achieve 1 even faster.
+
+We spend a great deal of time talking about the vertical impact of conway’s law. DevOps has rightfully focused us on the collaboration between those that build software and those that run it. But we tend to spend much less time talking about how to evolve the role of the architect as we adopt these new agile practises and DevOps.
+
+Enterprise Architects have a great deal of value to add to a DevOps aligned business. I think it comes down to four basic ideas:
+
++ Review
++ Renewal 
++ Refactoring
++ Resilience
+
+### Review. 
+Unicorns, like Facebook or google, are relatively skills-flat. They have large teams of highly talented engineers and architects who work together to solve product problems. Horses, i.e. any organisation older than the public internet, tend to have a much lumpier skills profile where deep skills in one package or language is common and where multi-rolled / skilled technologists are more difficult to achieve.
+
+An enterprise architect should act as a facilitator of discussion between the various technical stakeholders in an organisation, ensuring that technology decisions are made transparently and leveraging the best experience available across the enterprise, regardless of division or stripe.
+
+This might take the form of an architecture review body. In my experience, those that exists solely for the purpose of approval and rubber stamping lead short and violent lives. All reviews, whether or not there is a decision gate in front of it, rest on the cogency of the discussion.
+
+Now, some agilists may shake their heads in disapproval at the idea of a formal review structure. Frankly, in a perfect world, this wouldn’t be necessary. But your typical large enterprise is on a journey of transformation that will likely take as many years to achieve critical mass as the age of its oldest code base.
+
+So we can’t assume anything. Much of the change we need to drive, whether as engineers or architects, needs to be prefaced with great gobs of education. Rather than coming from on high, open discussions between people working on important projects is the most effective way of seeing thew change in thinking occurring as well as to seed it.
+
+### Renewal. 
+Enterprises invest in a wide range of technologies. While polyglot programming is pervasive in many startups and web companies, it is far less common in the large enterprise. Everyone has their favourite language. Enterprise Architects again can facilitate a useful conversation on alternatives. Whereas in the past though, implementation was at an arm’s length, today’s successful EA’s lead projects that produce an MVP using new technology. Without praxis in the use of the new technology and its implementation with existing enterprise assets, all credibility is lost.
+
+Creating and testing scenarios for renewal of technology is a critical job. Doing this, together with, rather than TO, other technology, engineering managers also creates a deep shared understanding of the possible uses of the technology. In this instance both engineers and architects are contributing to an organisational understanding of both the conceptual / strategic implications of the technology as well as the practical / syntactic /workflow uses of the technology.
+
+### Refactoring. 
+All code bases evolve. Some slower than others. The newer web platforms and perhaps the core systems written in older object oriented technologies like Java lend themselves to refactoring within the development workflow. However, the transformation challenge in the large enterprise has much to do with the transformation of the older / legacy systems and the transformation of the ‘practise’ of implementing packaged applications (think ERP, HR systems, General Ledgers etc.) where your development practise has no control over the development practises of the vendor.
+
+Traditionally if we want to deploy a large HR System implementation, we would spend a great deal of time collecting requirements, arguing with the vendor about how much those customisations would cost, waiting for the changes to be delivered and then hoping it all works as advertised on the infrastructure you ordered 18 months ago…
+
+What is possible and preferable is instead deploying even this behemoth in small batches. For instance,
+1. Iteration 1: deploy a small infrastructure footprint to support just the creation and modification of staff contact information.
+2. Iteration 2: extend by integrating with current Active Directory infrastructure….
+
+The EA in my experience needs to evangelise, promote, and drive this process of changing how we practise the evolution of technology in our business. An understanding of the architectures of packages chosen, or existing large systems is required to enable the design choices that underpin the design / factoring of the iterations. In this way, using approaches from Domain Driven Design or Martin Fowlers anecdotal ‘Strangler Pattern’, we can slowly evolve legacy systems. The factoring required for this is essential knowledge that can and should be investigated by EA’s.
+
+### Resilience. 
+What kind of organisation do we want to create? A brief look through some business literature from Peters, Drucker, Rosenzweig, Collins etc. we can see that the only sure thing strategically speaking to predict company success is Resilience. Whatever that means. The EA needs to define what resilience both technically and culturally means for the technology organisation. So what exactly is resilience?
+
+Karl Weck has done a great deal of work on the attributes of highly reliable organisations. These are organisations that literally cannot afford not to function. Good examples would be ER departments, Airline Pilots etc. He found some basic attributes of those organisations that were truly highly reliable: 
+* Track small failures 
+* Resist oversimplification
+* Sensitive to operations
+* Committed to resilience
+* Defer to expertise
+
+Another blog post will go into these in more detail. The core idea here is that there is a conversation that EA’s need to facilitate within a large organisation that gives them visibility of, commitment to and collaboration with how the organisation is structured and operated to achieve these goals.
+
+Let’s return to the original question. Enterprise Architects need to give up powerpoint. 
+
+Give up arbitrary standardization from a high tower. Start focusing on the 4 ‘R’s. The future success of enterprise architecture as a profession will be based on how increasingly embedded in the operations of products and teams as they are formed.
+
+Tweet me @dromologue.

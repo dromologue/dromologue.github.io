@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://www.dromologue.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.dromologue.com/" rel="alternate" type="text/html" /><updated>2018-08-11T21:24:06+01:00</updated><id>http://www.dromologue.com/</id><title type="html">The New Dromologue</title><subtitle>Velocity is all that matters.</subtitle><entry><title type="html">Customer Keynote at Google Next 18</title><link href="http://www.dromologue.com/googleNext/" rel="alternate" type="text/html" title="Customer Keynote at Google Next 18" /><published>2018-08-04T08:10:16+01:00</published><updated>2018-08-04T08:10:16+01:00</updated><id>http://www.dromologue.com/googleNext</id><content type="html" xml:base="http://www.dromologue.com/googleNext/">&lt;figure class=&quot;video_container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/w6f1rAZ6fk4?start=393&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="Video" /><summary type="html">Cloud is a method not a location.</summary></entry><entry><title type="html">An Open Letter to my New Team</title><link href="http://www.dromologue.com/open-letter/" rel="alternate" type="text/html" title="An Open Letter to my New Team" /><published>2017-09-04T08:10:16+01:00</published><updated>2017-09-04T08:10:16+01:00</updated><id>http://www.dromologue.com/open-letter</id><content type="html" xml:base="http://www.dromologue.com/open-letter/">&lt;p&gt;Hi. As our journey begins, I would like to outline what I think the job of a (1) leader, (2) manager, (3) team member and (4) technologist should be. These aspirations are the basis of everything we will build together. We are all technologists and members of a team. Some of you are managers. Give some thought to how these commitments might apply in your teams. We must all be effective leaders of the continued improvement that we seek for our teams and organisation. I look forward to discussing these with you and you joining me in evolving them to represent OUR TEAM and what we want to achieve together.&lt;/p&gt;
+
+&lt;h2 id=&quot;commitments-of-a-leader&quot;&gt;Commitments of a Leader&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The fundamental job of a leader is to give people reason to believe in a better future and the tools to build it the best they know how.&lt;/li&gt;
+  &lt;li&gt;I commit to communicating clearly to you both the challenges and opportunities I see for the organisation and our team.&lt;/li&gt;
+  &lt;li&gt;I commit to build a shared vision of how our team will transform this organisation together with you.&lt;/li&gt;
+  &lt;li&gt;Representing this vision, I commit to focus on creating customer value. This will sharpen our effectiveness and grow our influence.&lt;/li&gt;
+  &lt;li&gt;I commit to creating a respectful, safe and enjoyable place to work.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;commitments-of-a-manager&quot;&gt;Commitments of a Manager&lt;/h2&gt;
+
+&lt;p&gt;The fundamental responsibility of a good manager is to prepare you for your next job by making you successful at re-shaping this one. I don’t want you to go, but I want you to grow faster than you thought possible so that as you grow, we are forced to grow too.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I commit to doing this with you by helping you to hone your super-powers, and become aware of your kryptonite. I rely on you to help me with mine too.&lt;/li&gt;
+  &lt;li&gt;I commit to being a fierce advocate for our development and not just our delivery. I will not confuse discussions about your personal development with project progress.&lt;/li&gt;
+  &lt;li&gt;I commit to prioritise work for us that is meaningful to you and valuable to our employer. You shouldn’t have to work on something you don’t believe in. Nor should we as a company invest in either bike sheds or monuments because it destroys value and blunts your energy.&lt;/li&gt;
+  &lt;li&gt;I commit to treat you like the expert that you are. When things go wrong, as they sometimes will, I will trust that you did everything you could given the resources and information at your disposal.&lt;/li&gt;
+  &lt;li&gt;I commit to learning from our failures and implementing changes together with you.&lt;/li&gt;
+  &lt;li&gt;I commit to giving clear goals, stated as outcomes for our business and our team and not as lists of tasks or milestones.&lt;/li&gt;
+  &lt;li&gt;I commit to making the constraints that the organisation, the team and myself have to manage, clear. I will facilitate any other context required for us to truly share an understanding of what ‘done’ looks like.&lt;/li&gt;
+  &lt;li&gt;I commit to never ship our org chart. I will never pit us in opposition to other teams or departments or make partisanship an issue for our customers and stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;commitments-of-a-team-member&quot;&gt;Commitments of a Team Member&lt;/h2&gt;
+
+&lt;p&gt;The fundamental job of any team member is to honour her commitments to the team.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I commit to being clear about what I can and will deliver.&lt;/li&gt;
+  &lt;li&gt;I commit to being clear about what I require in order to get the job done.&lt;/li&gt;
+  &lt;li&gt;I commit to sharing my knowledge unselfishly across the organisation and the team.&lt;/li&gt;
+  &lt;li&gt;I commit to work across team silos to produce a viable product and will embrace opportunities to learn skills outside my specialist area.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;commitments-of-a-technologist&quot;&gt;Commitments of a Technologist&lt;/h2&gt;
+
+&lt;p&gt;The fundamental job of a technologist today is to bring technology to bear on a customer problem. The customer is the north star and the product they interact with the means of evaluating the suitability of our proposition to them.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I commit to ensuring I understand why something I am working on matters for a customer and why it is a priority now.&lt;/li&gt;
+  &lt;li&gt;I commit to delivering small increments of value at velocity. No perfect solution ever survived production.&lt;/li&gt;
+  &lt;li&gt;I commit to automation wherever possible so that I can apply my expertise where it is most valuable.&lt;/li&gt;
+  &lt;li&gt;I commit to just enough architecture to define the boundaries of my system, the promises of its components and the requirements of my next increment.&lt;/li&gt;
+  &lt;li&gt;I commit to building systems that are responsive, resilient and elastic under conditions of change that I know I can’t foresee perfectly. Therefore I will design systems with the expectation of the failure of their component parts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s it. The rest we can work out as we go.&lt;/p&gt;</content><author><name></name></author><category term="Article" /><summary type="html">My thoughts on leadership for a technology team.</summary></entry><entry><title type="html">How Finance put the Tech in Fintech</title><link href="http://www.dromologue.com/revolution/" rel="alternate" type="text/html" title="How Finance put the Tech in Fintech" /><published>2017-01-15T07:10:16+00:00</published><updated>2017-01-15T07:10:16+00:00</updated><id>http://www.dromologue.com/revolution</id><content type="html" xml:base="http://www.dromologue.com/revolution/">&lt;figure class=&quot;video_container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/F5PVjFBn71A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="Video" /><category term="Keynote" /><summary type="html">My keynote at Leonteq's Revolution Day. I talk about why software that makes money must be combined with services.</summary></entry><entry><title type="html">IOTA - The Missing Artifact in SCRUM</title><link href="http://www.dromologue.com/iota-scrum/" rel="alternate" type="text/html" title="IOTA - The Missing Artifact in SCRUM" /><published>2017-01-15T07:10:16+00:00</published><updated>2017-01-15T07:10:16+00:00</updated><id>http://www.dromologue.com/iota-scrum</id><content type="html" xml:base="http://www.dromologue.com/iota-scrum/">&lt;p&gt;In my implementation of Scrum over the last few years I have found a particular artifact to be helpful in focusing activities on what really matters. This is called the IOTA model and in this essay I discuss its use.&lt;/p&gt;
+
+&lt;h1 id=&quot;principles&quot;&gt;Principles&lt;/h1&gt;
+
+&lt;h2 id=&quot;increments&quot;&gt;Increments&lt;/h2&gt;
+&lt;p&gt;For a particular sprint, we agree with the product owner which items on the backlog are most important. But in the rough and tumble of real life projects, there are complexities, impurities and confusion.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;It is not always clear for a single sprint whether what is produced will be useful, rather than just the next set if items in an aging backlog.&lt;/li&gt;
+  &lt;li&gt;How do we focus our efforts in the sprint should we not be able to deliver everything we thought we could? Sometimes a sprint goal is used to give this some definition. But how do we define the sprint goal formally?&lt;/li&gt;
+  &lt;li&gt;Since we wish to keep our product increments small, how do we ensure that the assembled sprints produce a product increment that is useful and produces actionable customer and team feedback for the next increment?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I use an approach to planning both a sprint goal and the broader product increment, called &lt;em&gt;IOTA&lt;/em&gt;. An IOTA model is a distinct artifact that should be produced as part of both sprint and product increment planning.&lt;/p&gt;
+
+&lt;h2 id=&quot;perspectives&quot;&gt;Perspectives&lt;/h2&gt;
+&lt;p&gt;Consider the context within which we develop software, build cars, or pave roads. My experience in building cars and paving roads is limited, but the principles of scrum work equally well for any task. Any of these tasks occur in a context. A useful way of looking at this context is from two perspectives:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Learning&lt;/strong&gt; - How are we able to learn from our environment to improve what we build and how we build it. The classic reference here is the work on &lt;a href=&quot;https://hbr.org/1977/09/double-loop-learning-in-organizations&quot;&gt;double loop learning&lt;/a&gt; from Chris Argyris, Donald Schon et al.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Limits&lt;/strong&gt; - what are the natural boundaries or limits to our control? We cant control everything and knowing / hypothesizing the boundaries, as complexity theory tells us, is sometimes all we can do. Being clear about the kind of action those boundaries entail  is critical. A great reference here is the &lt;a href=&quot;https://hbr.org/2007/11/a-leaders-framework-for-decision-making&quot;&gt;Cynefin framework&lt;/a&gt; from Dave Snowden.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I define two  axes to represent the poles of these perspectives and use them to identify four distinct questions that every sprint must ask:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Theory &amp;lt;–&amp;gt; Action : How we learn by forming theories and testing them in the world.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Inside-Out View &amp;lt;–&amp;gt; Outside-In View: our relationship to the world outside, as an actor in it or as a receiver of feedback from it.  Or, in other words, the context we can control and the context we can’t. Inside-Out refers to our ideas and actions in the world. Outside-In refers to our thoughts and actions in response to the world.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;components&quot;&gt;Components&lt;/h2&gt;
+&lt;p&gt;By combining these perspectives, as the diagram shows, we define the four questions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/iota_new1.001.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-do-we-need-to-know-about-our-next-increment&quot;&gt;What do we need to know about our next increment?&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Define our &lt;em&gt;Assumptions&lt;/em&gt; about it.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Decide&lt;/em&gt; what to build and what capabilities / features / things we need to provide to our customers or users.&lt;/li&gt;
+  &lt;li&gt;Design our own &lt;em&gt;Conditions&lt;/em&gt; required to suport what we need to build / learn etc.&lt;/li&gt;
+  &lt;li&gt;Discern what the reaction was from our users based on achievement of defined &lt;em&gt;targets&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;more-precise-definitions&quot;&gt;More precise definitions:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Assumptions are constraints that we are unable to change within the period of the next sprint AND are important in shaping what we build.&lt;/li&gt;
+  &lt;li&gt;Capabilities are the jobs / tasks that we want to enable our users to perform. Often, these are described as User Stories. They are things that the user can see or experience.&lt;/li&gt;
+  &lt;li&gt;Conditions are the capabilities WE need to continuously improve the capabilities we deliver to our users.&lt;/li&gt;
+  &lt;li&gt;Targets are a formal, measurable definition of what success looks like for the increment.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-two-product-principle&quot;&gt;The Two Product Principle&lt;/h2&gt;
+&lt;p&gt;Notice that we identify two kinds of capability. Those we develop for ourselves and those we build for others. I formulate a principle that I refer to as ‘The Two Product Principle’:
+&lt;strong&gt;“You always ship twice. Every time you ship you incrementally improve your customer product AND your internal capability to produce that product.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This idea is fundamental to the IOTA model. Every product increment needs to not only make better products but also invest in internal capability so that product improvement is actually possible.  This is the essence of Kaizen; creating a continuous flow of improvement between ourselves and those for whom we manufacture.&lt;/p&gt;
+
+&lt;h1 id=&quot;practise&quot;&gt;Practise&lt;/h1&gt;
+&lt;p&gt;This is all pretty theoretical. Let’s create a practical example and walk through each:&lt;/p&gt;
+
+&lt;p&gt;Let’s say we are building a component of a bank website that helps you budget effectively. (This isnt a good statement of a product or sprint goal, and we will explain why and clean it up later.)  I like to call this kind of statement a &lt;strong&gt;Product Hypothesis&lt;/strong&gt;. It is high level and makes the assumption that customers want to budget, but what &lt;em&gt;effective&lt;/em&gt; budgeting means is still undefined. It is the start of a dialogue with the customer and the team. Whenever you say to yourself, “wouldnt it be cool if I could…..” you are expressing a product hypothesis. The IOTA model helps us test these hypotheses in small increments.&lt;/p&gt;
+
+&lt;p&gt;From a scrum perspective, the following questions would be asked during sprint planning and the sprint planning process would produce not only a pruned product backlog,  sprint backlog but also a consise statement of why we are build what we are building.&lt;/p&gt;
+
+&lt;h2 id=&quot;assumptions&quot;&gt;Assumptions&lt;/h2&gt;
+&lt;p&gt;I have run this model hundreds of times and the question that most often comes up is, “Aren’t your assumptions really contraints?” The answer is, “it depends”. The purpose of this step is to unpack the ideas we have formed about the context in which we build and make those that have a meaningful impact on what we build explicit. We want to make tacit knowledge explicit so that we can interrogate it.  See &lt;a href=&quot;https://hbr.org/2007/07/the-knowledge-creating-company&quot;&gt;this article&lt;/a&gt; by Ikujiro Nonaka for a seminal coverage of this idea. Sometimes tacit knowledge will describe a contraint and sometimes hide an opportunity. Let’s look at both in this context.&lt;/p&gt;
+
+&lt;p&gt;Compare these two assumptions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We assume that bank customers want to budget effectively so as not to run out of money at month end.&lt;/li&gt;
+  &lt;li&gt;We assume that bank customers budget to enable saving.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are not necessarily contradictory. However, the first shapes our response to the customer need very differently from the second. The second has a clear product implication for a bank, being the sales of savings accounts, while the second has more to do with the short term management of money day to day.&lt;/p&gt;
+
+&lt;p&gt;Consider a more operational assumption.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Help with the budgeting functionality will not be supported by the call centre until next year.
+This obviously shaopes what we build and is an example of something we cant change soon and certainly could be considered a constraint.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For this example, let’s use assumptions 2,3.&lt;/p&gt;
+
+&lt;h2 id=&quot;capabilities&quot;&gt;Capabilities&lt;/h2&gt;
+
+&lt;p&gt;I like to classify capabilities into the following types:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Features - Things you build for your customer to see and interact with directly.&lt;/li&gt;
+  &lt;li&gt;Signals - Things you build to collect information on your customers’ use of the features.&lt;/li&gt;
+  &lt;li&gt;Enablers  - Things you build that will result in direct customer benefit later but not this sprint.&lt;/li&gt;
+  &lt;li&gt;Delighters - Things you build just because they are cool, make the site different or fun.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So what are we going to build? Capabilities are features that the user can see or experience. We pull the following items from the backlog…(not in user story format)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Feature : A user can visualise their monthly transactions graphically.&lt;/li&gt;
+  &lt;li&gt;Feature: A user can categorize their monthly transactions according to type (e.g. amazon, starbucks etc.)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;When then perform the first of 3 CHECKS.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;check-1-context&quot;&gt;&lt;strong&gt;Check 1: Context:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Do any of our capabilities contradict our assumptions?&lt;/li&gt;
+  &lt;li&gt;Are our assumptions comprehensively served by our capabilities?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The first thing that comes to mind is that savings acounts dont seem to be referred to directly in anything we plan to build. Perhaps we add the following capability to remedy this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Feature: &lt;em&gt;A user can see how much they are saving each month and, if not, we make explicit the fact they are not saving anything.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since we cannot expect any help in the medium term from the call centre, let’s make explicit that,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Feature: &lt;em&gt;A first time user of the site should find it intiuitive to use this functionality.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conditions&quot;&gt;Conditions&lt;/h2&gt;
+&lt;p&gt;We now have a simple set of requirements. They still need to be broken down in more detail. But how do we work on ourselves?&lt;/p&gt;
+
+&lt;p&gt;A useful question to ask is, &lt;em&gt;“If we had to deliver the agreed functionality and then improve it while also adding the same amount of new functionality next sprint, how would we prepare?”&lt;/em&gt; In my view there is nothing more important that velocity of throughput for a development team. Increasing velocity is the best indicator of team morale, product owner relationship function etc. Therefore, conditions should always include some reference to improving velocity in the future.&lt;/p&gt;
+
+&lt;p&gt;I like to explain conditions using the following story. Imagine you are working on a production line like the great Charlie Chaplin in &lt;a href=&quot;https://youtu.be/DfGs2Y5WJ14&quot;&gt;Modern Times&lt;/a&gt;. You are responsible for tightening bolts. This is your product. The speed at which you are able to tighten the bolts without chaos ensuing (watch the video!) is your &lt;em&gt;condition&lt;/em&gt;. This is a great example because it also shows that just wanting faster production without investing in improved conditions will usually result in chaos.&lt;/p&gt;
+
+&lt;p&gt;Returning to our example, we identify the following ways in which we can improve our conditions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In order to better understand the transaction types, we will invest in some analysis with the data warehouse team to identify those types that are most frequent.&lt;/li&gt;
+  &lt;li&gt;We will co-locate the team so that we can collaborate better, do pair programming etc.&lt;/li&gt;
+  &lt;li&gt;We will research visualization frameworks to pick the medium / long term framework for our work. (for this sprint, we will probably just use what we know already.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now we check again.&lt;/p&gt;
+
+&lt;h3 id=&quot;check-2-capability&quot;&gt;&lt;strong&gt;Check 2: Capability:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Do our conditions scale our ability to develop new capabilities?&lt;/li&gt;
+  &lt;li&gt;Do our conditions respond effectively to our assumptions?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We don’t seem to be in bad shape here. A simple iteration through the capability and assumption lists though shows that again, we are focusing on our app and not the existing functionality. Do we need to prepare for integration with the savings account functionality? Perhaps, we add the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Obtain interface tests for the savings account creaiton process from the savings dev team.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;targets&quot;&gt;Targets&lt;/h2&gt;
+&lt;p&gt;So what? Why are we building this and how do we know its worth it? See this &lt;a href=&quot;https://hbr.org/2007/12/is-it-real-can-we-win-is-it-worth-doing-managing-risk-and-reward-in-an-innovation-portfolio&quot;&gt;article&lt;/a&gt; on the “Real / Worth / Win” screen for good ideas. I use it for sprint goal evaluation as well as product increment shaping.&lt;/p&gt;
+
+&lt;p&gt;My perspective on these questions is heavily shaped by Eli Goldratt. A nice summary of his thinking, combined with that of Boyd ( of OODA loop fame) is to be found &lt;a href=&quot;http://www.dbrmfg.co.nz/Strategy%20Constraint%20Management%20Model.htm&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We ask the question, “If this [increment] is to be considered sucessful what results will it produce?” Often, we will get answers like, ‘users like it.’ or ‘there are no escfaped defects.’ The first is undefined and also frankly useless. Customers need to do more than like it, they need to BUY it. As to escaped defects… success is not the same as the absence of failure.&lt;/p&gt;
+
+&lt;p&gt;This brings to the surface two complex questions:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Does the sprint result have to be immediately known or can we evaluate the sprint’s effectiveness after some time (e.g. two sprints later) ?&lt;/li&gt;
+  &lt;li&gt;How is the sprint goal linked to the product goal?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A sprint goal &lt;em&gt;must&lt;/em&gt; have a relationship to the overall product goal. A product goal must have a commercial definition. It is useful to break them down in the following way:&lt;/p&gt;
+
+&lt;h3 id=&quot;a-product-goal&quot;&gt;&lt;em&gt;A Product Goal:&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;A statement of the commercial purpose of the product. E.g. “Our budgeting product will convert 5% of our customers to additional savings accounts by end of year.”&lt;/p&gt;
+
+&lt;h3 id=&quot;a-product-increment-goal&quot;&gt;&lt;em&gt;A Product Increment Goal:&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;A statement of how the next release of functionality will contribute to the product goal. E.g. “Smart identification of customer spending behaviour will allow us to better suggest saving targets for customers. The 80% who currently do not open savings accounts on the app, will reduce by 5% in the next quarter.”  A product goal can therefore be broken into a number of increment goals. In practise, product increments often have a number of goals. For instance, we might have a goal of greater stability of the platform as well as (hopefully) a commercial target to meet. While the commercial goal is the most important and we &lt;em&gt;could&lt;/em&gt; say that the stability supports the customer use of the platform, it would be artificial to say that stability is a child goal to ‘savings account conversion.’ There is no shame in having technical goals. There is only shame in having no customer oriented revenue / growth goals. A product increment ALWAYS results in customer feedback which shapes the next product release.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-sprint-goal&quot;&gt;&lt;em&gt;A Sprint Goal:&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;A sprint goal is the must-have functionality that you deliver if all else fails. There is a problem here though. Product owners are apt to describe everything as must-have. But the realisation of a goal as it is described on a backlog is open to a great deal of choice in design and implementation. So beneath the view of the product owner lies choice. The sprint goal enables us to make this choice.&lt;/p&gt;
+
+&lt;p&gt;But the sprint goal is not just a prospective control measure, allowing us to adjust our focus during the sprint. It is also a powerful check on the scoping of the sprint before we even start. To see this we differentiate between &lt;em&gt;two components&lt;/em&gt; of the Sprint goal:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;A target is the formal and measurable expression of a sprint goal.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;An hypothesis is the argument behind the sprint goal itself.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;YOU NEED BOTH.&lt;/p&gt;
+
+&lt;p&gt;For our example, a sprint goal might provisionally be stated as,&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Target - 50% of customers get to recomendation phase without dropping out.&lt;/li&gt;
+  &lt;li&gt;Hypothesis - If customers receive a recommendation afer being shown their spending patterns they are more likely to save and our savings account usage will grow.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Let’s dive into the hypothesis…&lt;/p&gt;
+
+&lt;h2 id=&quot;hypotheses&quot;&gt;Hypotheses&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Format: IF  [we do something] THEN [Customer / User does something] SO THAT [We achieve something]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There are many things we want to do in a sprint. For instance, in this sprint we may be implementing a new messaging technology to integrate with the likely ancient banking backend. This is a legitimate  goal. It’s not very customer focused and if we have too many of these internally focused goals before the product increment is released we will likely be solving problems we have rather than our customers. See this &lt;a href=&quot;_posts/2016-09-12-designing&quot;&gt;article&lt;/a&gt; on the sins of over designing without feedback.  But we will often be working on projects where it is very difficult to get customer feedback on interim releases. However, if every sprint could be a product increment, that is the ideal target we want to get to. This is a great goal to track and work on in the &lt;em&gt;Conditions&lt;/em&gt;  section of the IOTA.&lt;/p&gt;
+
+&lt;p&gt;Defining a sprint goal in hypothesis format is useful for two reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It forces us to determine what kind of feedback we need from this sprint in order to validate subsequent sprints. This feedback can be internal (e.g. our engineers can’t get the hang of these Kafka events) or External (customers complained that the user interface was too complex since the last change). All of this feedback is important for future sprint planning. &lt;strong&gt;If you’re not going to actively seek out feedback every sprint, and use this feedback to update your backlog, you may as well use waterfall because you’re going to release crap anyway.&lt;/strong&gt; You can quote me.&lt;/li&gt;
+  &lt;li&gt;It creates a very clear causal link between what we build and what we want to achieve which allows us to interrogate the priority of what we are building in the sprint.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To see the usefulness of this, we introduce the next check:&lt;/p&gt;
+
+&lt;h3 id=&quot;check-3-coherence&quot;&gt;&lt;strong&gt;Check 3: Coherence:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If we do &lt;em&gt;not&lt;/em&gt; achieve our target what &lt;em&gt;capability&lt;/em&gt; would we aim to change? If the answer to this question is not crystal clear then we need to likely update the capabilities, or add detail to them, because we are not building to the target. Or, we have to change the target.&lt;/li&gt;
+  &lt;li&gt;What do we build to validate our hypothesis?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Almost every time I have run this model with real projects, there is a mismatch in the level of detail expressed in the target and the sprint backlog (capabilities). The key idea is that we want to have an understanding of priority in the sprint backlog at an appropriat elevel of detail to guide priority by the team during development.&lt;/p&gt;
+
+&lt;p&gt;At first glance, it seems clear that in our capabilities we do not have anything that tracks where in the process a customer stops. This is an example of a Signal.  We need to add a signal - “Track where users bail out.”&lt;/p&gt;
+
+&lt;p&gt;Also, In order to validate our hypothesis we need to show that when customers are shown savings opportunities they axctually take them. This is central to our whole product goal. If we find that customers, on being shown the saving opportunity, dont take it, what would we change in our build? We could add a capability to capture the reason for not taking up the offer and save this as a simple log.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The $6 million question is whether after all of this checking we can still achieve this in the sprint time allocated.&lt;/strong&gt; Often, when we apply this model, the first time we check we find so many things missing, so much vagueness in undersdtanding the goals that we need to iterate the model again. This usually results in a narrower more focused scope that really targets what we are trying to achieve with this increment. In my experience I have found it not uncommon to re-run this model 5 times with a team just starting out thinking this way. The process unfolds incredible discussions between the team and the product owner, resulting in learning on both sides. The clarity you receive will more than make up for the time spent and using the techniques referenced &lt;a href=&quot;https://github.com/dromologue/ContinuousTransformation/wiki/ROAR-Model&quot;&gt;here&lt;/a&gt; - called ROAR - are very time efficient.&lt;/p&gt;
+
+&lt;h1 id=&quot;progress&quot;&gt;Progress&lt;/h1&gt;
+&lt;p&gt;Let’s imagine that we can do the work described and the team is on board. Where did we get to. The updated diagram below shows a single concise summary of everything we will do this sprint at a useful level of detail for talking to all stakeholders.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/iota_new1.002.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I hope that you find this model useful. It will create greater clarity about what matters across your entire team. Please let me know your experiences or contribute to the repo &lt;a href=&quot;https://github.com/dromologue/ContinuousTransformation&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Essay" /><summary type="html">A new approach that enables you to target revenue driving customer behaviour</summary></entry><entry><title type="html">Learning and Limits</title><link href="http://www.dromologue.com/limits/" rel="alternate" type="text/html" title="Learning and Limits" /><published>2017-01-01T00:00:00+00:00</published><updated>2017-01-01T00:00:00+00:00</updated><id>http://www.dromologue.com/limits</id><content type="html" xml:base="http://www.dromologue.com/limits/">&lt;h2 id=&quot;a-formalisation-of-how-we-can-think-about-the-various-orientations-of-learning-as-doing--reflection-etc&quot;&gt;A formalisation of how we can think about the various orientations of learning as doing / reflection etc.&lt;/h2&gt;
+
+&lt;h3 id=&quot;learning&quot;&gt;Learning&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Define an axis that describes a continuum of decreasing abrtraction.&lt;/em&gt; From pure &lt;strong&gt;theory&lt;/strong&gt; (e.g. Heidegger) to pure &lt;strong&gt;action&lt;/strong&gt; (e.g. drinking tea). Our opportunity to learn and how we learn is different at each of these poles. We learn from our theory base through reflection and synthetic thought. It is a powerful lense through which to see the world and we are satisfied when we find &lt;strong&gt;coherence&lt;/strong&gt; to the thoughts and ideas we come up with. These are thoughts about the world, our organisation and ourselves that &lt;em&gt;precede&lt;/em&gt; and shape action. Action however allows these thoughts and their implications to be tested in the world. Gathering facts is action on our continuum. Forming theories about what they mean is theory. Learning is a continuous interplay between these two poles.&lt;/p&gt;
+
+&lt;h3 id=&quot;limits&quot;&gt;Limits&lt;/h3&gt;
+&lt;p&gt;Define an axis that describes a continuum of increasing separation between you / your team and the world around you. From the world acting on you (as a passive receiver of feedback) to you acting on the world (as an insensitive actor ). Both of these extremes are frequent and legitimate occurances. Of course, most of life tends to fall in between the sociopathic and the hysterical.&lt;/p&gt;
+
+&lt;p&gt;An &lt;em&gt;Inside-Out&lt;/em&gt; view describes your role as primarily an actor, acting on the world given your current understanding of your context. This might mean making theories about the world or equally, acting directly in the world. 
+An &lt;em&gt;Outside-in&lt;/em&gt; view is where feedback or external stimulus occurs. The world we find ourselves in reacts to our actions or shapes the guiding assumptions we use when we think about it.&lt;/p&gt;
+
+&lt;h3 id=&quot;knowledge&quot;&gt;Knowledge&lt;/h3&gt;
+&lt;p&gt;Following our friend &lt;a href=&quot;https://aquileana.wordpress.com/2014/02/01/aristotles-three-types-of-knowledge-in-the-nichomachean-ethics-techne-episteme-and-phronesis/&quot;&gt;Aristotle&lt;/a&gt;, in the Nicomachean Ethics, there are three kinds of knowledge:
+&lt;em&gt;Episteme&lt;/em&gt; - knowing of. The kind iof knowledge you might have about maths.
+&lt;em&gt;Techne&lt;/em&gt; - knowing how. The kind of knowledge related to how to build something. 
+&lt;em&gt;Phronesis&lt;/em&gt; - knowing why. The kind of knowledge related to making trade-offs, deciding between similar alternatives etc. Practical knowledge.&lt;/p&gt;
+
+&lt;p&gt;The cycle that exists, enriching episteme into technae into phronesis is a cycle we want to emulate too. This practical knowledge that we create then further refines the next cycle. The creation of a cycle of continually enriched learning produces four kinds of interaction with the world around us.&lt;/p&gt;</content><author><name></name></author><category term="Sidebar" /><summary type="html">A little note on learning.</summary></entry><entry><title type="html">The Real ROI of DevOps</title><link href="http://www.dromologue.com/Roi-of-Devops/" rel="alternate" type="text/html" title="The Real ROI of DevOps" /><published>2016-10-29T08:10:16+01:00</published><updated>2016-10-29T08:10:16+01:00</updated><id>http://www.dromologue.com/Roi-of-Devops</id><content type="html" xml:base="http://www.dromologue.com/Roi-of-Devops/">&lt;p&gt;&lt;a href=&quot;https://devops.com/blogs/real-roi-devops/&quot;&gt;Article at DevOps.com&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Article" /><summary type="html">An article on whether there is a ROI in DevOps.</summary></entry><entry><title type="html">A new kind of management</title><link href="http://www.dromologue.com/leading/" rel="alternate" type="text/html" title="A new kind of management" /><published>2016-09-28T08:00:16+01:00</published><updated>2016-09-28T08:00:16+01:00</updated><id>http://www.dromologue.com/leading</id><content type="html" xml:base="http://www.dromologue.com/leading/">&lt;p&gt;Are startups and large enterprises really very different? Well, yes they are. But to make this piece somewhat longer than a haiku, let me probe a little deeper into some unexpected areas of similarity.&lt;/p&gt;
+
+&lt;p&gt;I have worked for Barclays, GE, IBM - large companies by any measure. I have also worked for CHEF, a scrappy startup and darling of DevOps.  During this stint I had the pleasure of getting to know some other startups rather well too.&lt;/p&gt;
+
+&lt;p&gt;Moving from a 300,000 to a 300 person company was a bit like being Tom Daly (a weightier, less ripped version) finding mid-pike that there was less water in the pool than was ideal.  “What do you mean we don’t have team goals?”&lt;/p&gt;
+
+&lt;p&gt;Software startups are led by one of two factions. Engineering and the founder. Or, the sales people.  Sales leadership are brought in once the founder realises she prefers coding to lunching for a living.  The interplay between sales and engineering is very similar to the traditional divide between IT and ‘business’ in the large enterprise.  There is much public expression of mutual respect along with lashings of complete incomprehension at how the other sees the world.&lt;/p&gt;
+
+&lt;p&gt;In most software startups, management is accidental. This means that they grew into leaders by being good at (typically) selling stuff.  It is thought that there is no sense, or reason, in a small company, to have professional managers, or people who are specifically experienced as managers. Now, large enterprises (GE being a signal example) are very good at training managers to manage.  Most startups suffer from this gap. Don’t let this fool you into thinking that in large enterprises management is necessarily any less accidental.&lt;/p&gt;
+
+&lt;p&gt;The CIO, CDO, CTO… (We will run out of consonants soon) is increasingly being drawn from outside the traditional technology domain, like finance. These people have built their careers on counting stuff. And everyone knows there’s a lot of stuff that needs counting in IT.&lt;/p&gt;
+
+&lt;p&gt;The moral here is that the management of both startups and enterprises begins to show the massive change our industry is going through. Software startups need to realise that they must do more than just shill software and rather build a platform for change in their customers. Enterprises are realising that the artificial divide between ‘business’ and IT has created an almost feral culture of the latest technology.&lt;/p&gt;
+
+&lt;p&gt;A new kind of management is needed: One that is based on creating deep alignment between the builders of product and the consumers of it, while removing as many obstacles between these two as possible.&lt;/p&gt;</content><author><name></name></author><category term="Ramblings" /><summary type="html">Thoughts on management in large enterprises and startups.</summary></entry><entry><title type="html">No, I won’t tell you what DevOps is</title><link href="http://www.dromologue.com/data-economy/" rel="alternate" type="text/html" title="No, I won’t tell you what DevOps is" /><published>2016-09-18T08:21:16+01:00</published><updated>2016-09-18T08:21:16+01:00</updated><id>http://www.dromologue.com/data-economy</id><content type="html" xml:base="http://www.dromologue.com/data-economy/">&lt;p&gt;&lt;a href=&quot;https://data-economy.com/no-i-wont-tell-devops-tell-want-achieve-instead-2/&quot;&gt;Article for Data Economy.com&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Article" /><summary type="html">An article on Agile Lean &amp; DevOps. (ALDO)</summary></entry><entry><title type="html">The Lazy J Curve and How to Stop Over-Designing</title><link href="http://www.dromologue.com/designing/" rel="alternate" type="text/html" title="The Lazy J Curve and How to Stop Over-Designing" /><published>2016-09-12T03:21:16+01:00</published><updated>2016-09-12T03:21:16+01:00</updated><id>http://www.dromologue.com/designing</id><content type="html" xml:base="http://www.dromologue.com/designing/">&lt;p&gt;In this article, I propose a way of thinking about how much design up front is necessary in large system implementations.
+It is common cause in the agile community to talk about the need to avoid anticipating a final solution in all its detail. Instead, we are advised, we need to balance delivery with discovery — incrementally delivering features, making them available for feedback and being open to discovering what we were not expecting both in terms of the customer experience and the technical implementation. &lt;br /&gt;
+ &lt;br /&gt;
+ However, many large systems — particularly those that require a large set of standard features in order to deliver a minimum viable product — need some non-trivial amount of design to occur before delivery to customers. How much is enough? I introduce a simple model called the Lazy J Curve to explain the behaviours behind traditional large project planning and then use this model to derive the dynamics behind ‘just enough’ planning and design for large projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;large-projects-and-theunknown&quot;&gt;Large Projects and the Unknown&lt;/h2&gt;
+&lt;p&gt;If I look back on large projects that I have been associated with and consider how much time is spent defining what is known versus what is anticipated I find an interesting pattern. When implementing a large banking program, such as a core bank replacement, much is known of what constitutes the minimum required for a bank to function. For instance, we need current accounts, savings accounts, perhaps some kind of lending both secured and unsecured. In mature industries, projects of this kind rely a great deal on the experience of practitioners to define the ‘current’ state. &lt;br /&gt;
+ &lt;br /&gt;
+But I have also seen a great deal effort spent on anticipating the implications of those new ideas or technologies, now grafted onto the present model. To use a banking example once again, we obsess over how to adjust customer onboarding processes to take advantage of new channels, and we try to learn from disruptive payments methods to reduce the cost and increase the penetration of our payments products. &lt;br /&gt;
+ &lt;br /&gt;
+For ease of exposition, let’s call the first group of known requirements, the Hump and the second group of anticipated requirements, the Tail. &lt;br /&gt;
+ &lt;br /&gt;
+When we look back on a project that has these attributes it is often difficult to separate out the (elapsed) time spent on either the hump or the tail. But in talking to team members, their stories will inevitably be about the effort spent on the tail. We find that the work of documenting the hump proceeds in a (mostly) orderly manner and with a fairly well understood schedule. The best example of this is to be found in consulting companies that do this sort of thing for a living. Any senior consultant will likely have done half a dozen of these projects, efficiently documenting the basic processes required for (for instance) customer onboarding.&lt;/p&gt;
+
+&lt;p&gt;The work in the tail is largely unknown before the project begins and as such the team discovers new and unexpected complexities that then require effort to sort through. Sometimes this might result in the idea being shelved and a less complex idea implemented. The process of deciding to abandon work in a large project has a high overhead in itself. In some cases, the complexities might be thought central to what is new and competitive about the product or proposition and thus is pursued doggedly.&lt;br /&gt;
+ &lt;br /&gt;
+In both these cases, a great deal of time is spent in understanding what could go wrong or put the project deadline / cost etc. at risk. This entails efforts spent in further anticipating a range of options that have little basis in the experience of the project participants. Effort expended, I find, is far greater in the tail than in the hump. This may be diagrammed as shown below where the total area under the curve is effort:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/j3.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-tail-and-thehump&quot;&gt;The tail and the hump&lt;/h2&gt;
+&lt;p&gt;As the diagram shows, we expend a great deal of effort on what we know to be important (to our customer) and what we know will result in failure (of the system). What the diagram only hints at though is the extent of the effort spent on anticipating what might be valuable to a customer and those areas of system function that might fail under certain circumstances. This case is represented by the tail, running off the page for as long as we let it. In my experience the tail is far longer than this scale shows.
+The unknown and Priority
+In an ‘ideal’ case, what should we focus on? The graph below shows a hypothetical (and largely arbitrary) line that may be used to separate the important OR likely to fail from the unimportant or not known to fail. Wherever this line lies in reality is a job for the economists. For our purposes, it is sufficient to posit that there is some partition of the total effort spent that adds more value than the other.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/j2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;investmentpriority&quot;&gt;Investment Priority&lt;/h2&gt;
+&lt;p&gt;We can think of effort spent above the line as being of higher priority than that below the line. The location of the line gives us a useful definition. The functionality entailed by the effort above the line may be thought of as a minimum viable product. In my experience, an MVP needs to capture enough of the basic requirements in the application’s domain to attract new users, but so much as to delay release while we tail-gaze. &lt;br /&gt;
+ &lt;br /&gt;
+ We still have a problem though. How do we know that what we work on after delivering the MVP is worth the effort? Is it possible to avoid tail-gazing? Many projects seem to avoid this trap. How do they do it?
+The Lazy J Curve
+I propose that we can focus on priority and function such that we stay above our hypothetical line of value throughout a project, but it needs some outside guidance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/j1.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lazy-jcurve&quot;&gt;Lazy J Curve&lt;/h2&gt;
+&lt;p&gt;The graph above is achieved by transforming the initial curve by placing it along a new x axis — the investment priority line. It shows some interesting properties.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The hump is defined as being before a point specified as the feedback inflection point. This is the point at which we begin to actively acquire feedback from running an MVP.&lt;/li&gt;
+  &lt;li&gt;Before feedback, not all of the work we do is of uniform importance. I don’t want to pretend pseudo-science so the shape is illustrative only. However, it is clear that as we proceed towards what we think is good enough to release not all features are of equal importance.&lt;/li&gt;
+  &lt;li&gt;Why does the curve trend upwards after the feedback point? The only input, after we have dealt with the known features, that will ensure we do not dip down below the investment line must be something that ensures we are expending effort on what is valuable. This is feedback. Feedback will be from customers on which features resonate and from operations on how the platform as a whole is performing.&lt;/li&gt;
+  &lt;li&gt;What is intuitively attractive about this curve is that the long tail is consistent with agile experience. Your ability to stay profitable as you move into less familiar technical territory, driven by scale concerns, compliance and security etc., is balanced by your increased refinement on a product level of what your customer wants and needs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I call the result, the ‘Lazy J curve’. Use it.&lt;/p&gt;</content><author><name></name></author><category term="Essay" /><summary type="html">An essay on how to actually define what a MVP is for large applications with extensive functionality required in order to just be 'viable'.</summary></entry><entry><title type="html">Delivering Products at Velocity</title><link href="http://www.dromologue.com/delivering-products-at-velocity-channel-9/" rel="alternate" type="text/html" title="Delivering Products at Velocity" /><published>2016-09-03T03:21:16+01:00</published><updated>2016-09-03T03:21:16+01:00</updated><id>http://www.dromologue.com/delivering-products-at-velocity-channel-9</id><content type="html" xml:base="http://www.dromologue.com/delivering-products-at-velocity-channel-9/">&lt;figure class=&quot;video_container&quot;&gt;
+&lt;iframe src=&quot;https://channel9.msdn.com/Events/DevOps-Microsoft-Chef/ChefConf-2016/Delivering-Products-at-Velocity/player&quot; width=&quot;560&quot; height=&quot;315&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;</content><author><name></name></author><category term="Video" /><category term="Interview" /><summary type="html">An interview by Microsoft's Channel 9 on product development.</summary></entry></feed>
