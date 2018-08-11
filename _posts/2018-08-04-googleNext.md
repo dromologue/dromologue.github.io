@@ -9,5 +9,5 @@ excerpt: Cloud is a method not a location.
 
 
 <figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w6f1rAZ6fk4?start=393" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w6f1rAZ6fk4?start=23580" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </figure>
