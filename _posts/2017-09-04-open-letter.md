@@ -4,11 +4,13 @@ title: An Open Letter to my New Team
 date:  '2017-09-04T08:10:16+01:00'
 tags:
 - Article
-excerpt: My thoughts on leadership for a technology team. 
+excerpt: My thoughts on leadership for a technology team.
 ---
 
 
-Hi. As our journey begins, I would like to outline what I think the job of a (1) leader, (2) manager, (3) team member and (4) technologist should be. These aspirations are the basis of everything we will build together. We are all technologists and members of a team. Some of you are managers. Give some thought to how these commitments might apply in your teams. We must all be effective leaders of the continued improvement that we seek for our teams and organisation. I look forward to discussing these with you and you joining me in evolving them to represent OUR TEAM and what we want to achieve together.
+Hi. As our journey begins, I would like to outline what I think the job of a (1) leader, (2) manager, (3) team member and (4) technologist should be.
+
+These aspirations are the basis of everything we will build together. We are all technologists and members of a team. Some of you are managers. Give some thought to how these commitments might apply in your teams. We must all be effective leaders of the continued improvement that we seek for our teams and organisation. I look forward to discussing these with you and you joining me in evolving them to represent OUR TEAM and what we want to achieve together.
 
 ## Commitments of a Leader
 
