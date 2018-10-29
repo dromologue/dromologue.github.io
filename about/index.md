@@ -9,7 +9,7 @@ modified: 2018-10-28
 
 Justin Arbuckle is a passionate proponent of the transformative potential of Agile, Lean and DevOps in large enterprises and the transformational role of technology leaders in business.
 
-Justin is currently Senior Vice President and Head of The Platform Organisation at ScotiaBank in Toronto, Canada. PLATO is a platform software company inside Scotiabank, building cloud, devops, API and bug data infrastructure for Scotiabank businesses globally. 
+Justin is currently Senior Vice President and Head of The Platform Organisation at ScotiaBank in Toronto, Canada. PLATO is a platform software company inside Scotiabank, building cloud, devops, API and big data infrastructure for Scotiabank businesses globally. 
 
 All comments and opinions on this blog are his alone, and not necessarily endorsed by Scotiabank.
 
