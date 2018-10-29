@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Source Strategy for Scotiabank
+title: Transformation at Scotiabank
 date: '2018-08-08T13:19:57+01:00'
 tags:
 - Interview
