@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scotiabank Wins Bnk of the Year in Canada 2019
+title: Scotiabank Wins Bank of the Year in Canada 2019
 date: '2019-11-19T13:19:57+01:00'
 tags:
 - Press
