@@ -6,4 +6,6 @@ tags:
 - Press
 excerpt: The award specifically recognizes the PLATO platform
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PZ1Lqxfs1yw?start=1544" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Scotiabank Wins Bank of the Year in Canada 2019 - [Newswire][1]
+
+[1]:	https://www.newswire.ca/news-releases/scotiabank-named-bank-of-the-year-in-canada-861208347.html
