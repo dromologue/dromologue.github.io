@@ -1,0 +1,132 @@
+I"<p><strong>Workshop Objective:</strong>
+To build a product team and a backlog of work for them that will deliver value to customers, refine the team’s understanding of how to drive profitable customer interaction and how to improve the team in their own practise.</p>
+
+<!-- TOC -->
+
+<ul>
+  <li><a href="#pre-work">Pre Work</a></li>
+  <li><a href="#day-1">Day 1</a>
+    <ul>
+      <li><a href="#content">Content</a></li>
+      <li><a href="#attendees">Attendees</a></li>
+      <li><a href="#outcome">Outcome</a></li>
+    </ul>
+  </li>
+  <li><a href="#day-2">Day 2</a>
+    <ul>
+      <li><a href="#content-1">Content</a></li>
+      <li><a href="#attendees-1">Attendees</a></li>
+      <li><a href="#outcome-1">Outcome</a></li>
+    </ul>
+  </li>
+  <li><a href="#day-3">Day 3</a>
+    <ul>
+      <li><a href="#content-2">Content</a></li>
+      <li><a href="#attendees-2">Attendees</a></li>
+      <li><a href="#outcome-2">Outcome</a></li>
+    </ul>
+  </li>
+  <li><a href="#logistics">Logistics</a></li>
+</ul>
+
+<!-- /TOC -->
+
+<h2 id="pre-work">Pre Work</h2>
+<ul>
+  <li>I meet with the sponsor - An executive in the company that can influence the appropriate identification and allocation of resources.</li>
+  <li>The objective is to identify 1or 2 products - i.e. an application or service offered to customers - that we will work on for the next 6-8 weeks.</li>
+  <li>Through some early interviews with some future team members, business leaders and other influencers I attempt to understand the competitive and commercial context of the product and the technical practises used by the development teams.</li>
+  <li>I use a checklist from the open source transformation repo that I maintain. This is <a href="https://github.com/dromologue/ContinuousTransformation/blob/master/TechnicalWorkshop/Checklist.md">here</a>.</li>
+</ul>
+
+<p><em>–&gt; Outcome: Well defined product(s) and teams available to work in a dedicated manner for the next 6-8 weeks.</em></p>
+
+<h2 id="day-1">Day 1</h2>
+<p>Day 1 is all about setting the context of a new way of working. This includes a discussion of some well known models and some new ones developed in my practise:</p>
+<h3 id="content">Content</h3>
+<ul>
+  <li>Agile, Lean, DevOps (ALDO) - drawing on Toyota TPS, Agile Manifesto, Continuous Delivery and DevOps Kung Fu.</li>
+  <li>Lean Startup</li>
+  <li>Conway’s Law</li>
+  <li>Kanter’s 4 Player Model</li>
+  <li>De Bono’s 6 Thinking Hats</li>
+  <li>IOTA Model</li>
+  <li>The Lazy J Model</li>
+  <li>ELSA Model</li>
+  <li>The HSM - High Stakes Moment</li>
+  <li>The Operating Chasm</li>
+  <li>The ‘Hands-up’ Problem</li>
+</ul>
+
+<p>It’s not just talking, there should be lots of activity and plenty of group exercises. Don’t use slideware - have conversations.</p>
+
+<h3 id="attendees">Attendees</h3>
+<ul>
+  <li>All team members already identified.</li>
+  <li>Senior leaders who also need / want to understand the new approaches.</li>
+  <li>Other influencers in the organisation.</li>
+</ul>
+
+<h3 id="outcome">Outcome</h3>
+<ul>
+  <li>A shared perspective on how we can work better with each other and our customers to achieve continuous improvement.</li>
+  <li>Confirmation of the products to be worked on and the teams that will work on them.</li>
+</ul>
+
+<h2 id="day-2">Day 2</h2>
+<p>Day 2 is when things get real.</p>
+
+<h3 id="content-1">Content</h3>
+<p>During this day, for each product we identify:</p>
+<ul>
+  <li>A longer term product increment goal - What do we think is really going to shift the needle? This is the HSM.</li>
+  <li>A user story map that describes this.</li>
+  <li>Areas of improvement for the team to be worked on during the delivery of the product goal.</li>
+</ul>
+
+<h3 id="attendees-1">Attendees</h3>
+<ul>
+  <li>All of the members of the product teams.</li>
+  <li>Those from Day 1 able / wanting to attend. (it’s usually pretty high)</li>
+</ul>
+
+<h3 id="outcome-1">Outcome</h3>
+<ul>
+  <li>A clearly defined goal for the product.</li>
+  <li>Some open questions or hypotheses about how certain customer behaviour will drive revenue for your product.</li>
+  <li>Teams already beginning to gel and operate as a cohesive unit.</li>
+</ul>
+
+<h2 id="day-3">Day 3</h2>
+<p>Day 3 focuses on building a first sprint of two weeks and building the capability within the team to keep on doing it using the new methods introduced.</p>
+<h3 id="content-2">Content</h3>
+<ul>
+  <li>We use the IOTA model for much of Day 3.</li>
+  <li>We split the planning into micro-chunks of 15 minutes using the ROAR approach.</li>
+</ul>
+
+<h3 id="attendees-2">Attendees</h3>
+<ul>
+  <li>Full product teams as before.</li>
+  <li>Senior leadership at the end of day 3 to be presented the plan.</li>
+</ul>
+
+<h3 id="outcome-2">Outcome</h3>
+<ul>
+  <li>A fully defined sprint to be started the next day.</li>
+  <li>Identification of additional resources or other obstacles that senior leadership need to assist in addressing.</li>
+</ul>
+
+<h2 id="logistics">Logistics</h2>
+<ul>
+  <li>1 Flipchart for the facilitator and 1 each for each of the product teams.</li>
+  <li>Lots of sticky notes.</li>
+  <li>Working flipchart pens.</li>
+  <li>Coffee / tea on tap.</li>
+  <li>Offsite location is preferable as it stops people being dragged into things.</li>
+  <li>A room with space to move around in. No tables, just chairs in a large circle.</li>
+</ul>
+
+<p><a href="/consulting/">&lt;– Back to Consulting</a></p>
+
+:ET
