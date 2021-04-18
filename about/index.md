@@ -4,7 +4,7 @@ title: About Me
 image: 
  feature: justin3.jpg
 comments: false
-modified: 2018-10-28
+modified: 2021-04-18
 ---
 
 Justin is a passionate proponent of the transformative potential of Agile, Lean and DevOps in large enterprises and the transformational role of technology leaders in business. As he has progressed in his career he has become convinced that the future requires talented managers of talent as much as it does technologists. 
