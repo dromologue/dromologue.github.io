@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Promotions
-date: '2022-10-14T13:19:57+01:00'
+date: '2021-10-10T13:19:57+01:00'
 tags:
 - Ramblings
 excerpt:  Behaviour matters
