@@ -76,7 +76,11 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
+<<<<<<< HEAD
     rb-fsevent (0.11.0)
+=======
+    rb-fsevent (0.10.3)
+>>>>>>> 5bf827483d165562420980dfb31f7521506f9072
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
